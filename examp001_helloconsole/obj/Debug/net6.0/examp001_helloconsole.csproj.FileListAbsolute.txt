@@ -1,0 +1,15 @@
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\bin\Debug\net6.0\examp001_helloconsole.exe
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\bin\Debug\net6.0\examp001_helloconsole.deps.json
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\bin\Debug\net6.0\examp001_helloconsole.runtimeconfig.json
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\bin\Debug\net6.0\examp001_helloconsole.dll
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\bin\Debug\net6.0\ref\examp001_helloconsole.dll
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\bin\Debug\net6.0\examp001_helloconsole.pdb
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\obj\Debug\net6.0\examp001_helloconsole.csproj.AssemblyReference.cache
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\obj\Debug\net6.0\examp001_helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\obj\Debug\net6.0\examp001_helloconsole.AssemblyInfoInputs.cache
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\obj\Debug\net6.0\examp001_helloconsole.AssemblyInfo.cs
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\obj\Debug\net6.0\examp001_helloconsole.csproj.CoreCompileInputs.cache
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\obj\Debug\net6.0\examp001_helloconsole.dll
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\obj\Debug\net6.0\ref\examp001_helloconsole.dll
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\obj\Debug\net6.0\examp001_helloconsole.pdb
+C:\Users\psixs\OneDrive\Рабочий стол\examp\examp001_helloconsole\obj\Debug\net6.0\examp001_helloconsole.genruntimeconfig.cache
